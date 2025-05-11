@@ -2,6 +2,9 @@
 
 Offensive security and other things cyber.
 
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"/>
+</p>
 
 <p align="center">
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/137295599" width="120" height="120"/>
