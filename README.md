@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Nazeef a.k.a holywater 👋
+
+Offensive security and other things cyber.
+
 
 <p align="center">
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/137295599" width="120" height="120"/>
