@@ -1,5 +1,9 @@
 ## Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nzf07&style=flat&color=blue" alt=Nazeef/> </p>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/nazeef-hasan-khan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+</p>
 <!--
 **Nzf07/Nzf07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-    <a href="https://www.linkedin.com/in/nazeef-hasan-khan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nazeef" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/nazeef-hasan-khan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
-</p>
