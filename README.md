@@ -1,8 +1,10 @@
 ## Hi there 👋
 
 <p align="center">
+    <img src="images/pnpthttps://api.accredible.com/v1/frontend/credential_website_embed_image/badge/137295599.png?raw=true" width="100" height="100"/>
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/91371229" width="100" height="100"/>
-    <img src="images/cptss.png?raw=true" width="100" height="100"/>
+    <img src="images/cpts.png?raw=true" width="100" height="100"/>
+    <img src="images/crto.png?raw=true" width="100" height="100"/>
 </p>
 <p align="center"></p>
 
