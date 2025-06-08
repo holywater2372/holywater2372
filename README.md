@@ -1,5 +1,6 @@
- <img src="images/pikachu-pokemon.gif" width="124" height="111"/>
-
+<p align="center">
+    <img src="images/pikachu-pokemon.gif" width="124" height="111"/>
+</p>
 
 ## Hi there, I'm Nazeef a.k.a holywater
 
