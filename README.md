@@ -2,9 +2,7 @@
     <img src="images/pikachu-pokemon.gif" width="124" height="111"/>
 </p>
 
-<p align="center">
-    ## Hi there, I'm Nazeef a.k.a holywater
-</p>
+## Hi there, I'm Nazeef a.k.a holywater
 
 <p align="center">
     I do mostly Offensive security and other things cyber.
