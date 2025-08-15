@@ -17,6 +17,7 @@
 </p>
 
 <p align="center">
+    <img src="images/bscp.png?raw=true" width="120" height="120"/>
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/137295599" width="120" height="120"/>
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/91371229" width="120" height="120"/>
     <img src="images/cpts.png?raw=true" width="120" height="120"/>
