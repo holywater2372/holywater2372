@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm Nazeef a.k.a holywater</h1>
 
 <p align="center">
-    I do mostly Offensive security and other things cyber.
+    I do mostly Offensive security and other things cyber. You can reach out on my discord <a href="https://discord.com/users/593390384785391637">@holywaterr</a> <3
 </p>
 
 <p align="center">
